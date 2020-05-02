@@ -42,3 +42,39 @@ body {
     z-index: -1;
     animation: fadeIn .5s linear;
 }
+
+.js-clock {
+    text-align: center;
+    font-size: 7em;
+}
+
+.js-clock h1 {
+    margin-bottom: 20px;
+}
+
+.js-greetings {
+    margin-top: -20px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 3em;
+}
+
+.js-form,
+.js-toDoForm {
+    text-align: center;
+}
+
+.js-form input,
+.js-toDoForm input {
+    width: 350px;
+    height: 45px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.js-toDoList {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 35px;
+}
